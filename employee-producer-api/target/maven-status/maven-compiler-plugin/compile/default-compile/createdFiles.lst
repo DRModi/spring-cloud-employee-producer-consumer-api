@@ -1,0 +1,4 @@
+com\training\springcloud\model\Employee.class
+com\training\springcloud\SpringBootEmployeeProducerApplication.class
+com\training\springcloud\controller\EmployeeController.class
+com\training\springcloud\service\EmployeeService.class
